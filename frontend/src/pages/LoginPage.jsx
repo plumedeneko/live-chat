@@ -114,7 +114,7 @@ const LoginPage = () => {
         subtitle={"Sign in to continue your conversations and catch up with your messages."}
       />
     </div>
-  )
+  );
 };
 
 export default LoginPage;
